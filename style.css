@@ -1,0 +1,19 @@
+html{
+background-color: black;
+}
+div{
+width: 50%;
+margin-left: 25%;
+margin-top: 250px;
+ color: white;
+text-align: center;
+font-family: 'Libre Baskerville', serif;
+}
+p{
+    font: 3rem;
+}
+#a{
+    
+    border: 5px solid white;
+    width: 50%;
+}
